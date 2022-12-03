@@ -4,9 +4,11 @@ Welcome to the Advent of Code[^aoc] Kotlin project created by [misterteatime][gi
 
 In this repository, misterteatime is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
 
-## Solutions
+## Lösungen
 
-* [Day 01](docs/Day01.md)
+* [Tag 01](docs/Day01.md)
+* [Tag 02](docs/Day02.md)
+* [Tag 03](docs/Day03.md)
 
 ## Help
 
