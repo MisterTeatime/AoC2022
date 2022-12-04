@@ -9,6 +9,7 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 * [Tag 01](docs/Day01.md)
 * [Tag 02](docs/Day02.md)
 * [Tag 03](docs/Day03.md)
+* [Tag 04](docs/Day04.md)
 
 ## Help
 
