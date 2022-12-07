@@ -6,10 +6,13 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 
 ## Lösungen
 
-* [Tag 01](docs/Day01.md)
-* [Tag 02](docs/Day02.md)
-* [Tag 03](docs/Day03.md)
-* [Tag 04](docs/Day04.md)
+- [Tag 01](docs/Day01.md)
+- [Tag 02](docs/Day02.md)
+- [Tag 03](docs/Day03.md)
+- [Tag 04](docs/Day04.md)
+- [Tag 05](docs/Day05.md)
+- [Tag 06](docs/Day06.md)
+- [Tag 07](docs/Day07.md)
 
 ## Help
 
@@ -18,7 +21,6 @@ If you're stuck with Kotlin-specific questions or anything related to this templ
 - [Kotlin docs][docs]
 - [Kotlin Slack][slack]
 - Template [issue tracker][issues]
-
 
 [^aoc]:
     [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
