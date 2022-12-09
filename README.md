@@ -14,6 +14,7 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 - [Tag 06](docs/Day06.md)
 - [Tag 07](docs/Day07.md)
 - [Tag 08](docs/Day08.md)
+- [Tag 09](docs/Day09.md)
 
 ## Help
 
