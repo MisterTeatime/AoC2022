@@ -6,16 +6,20 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 
 ## Lösungen
 
-- [Tag 01](docs/Day01.md)
-- [Tag 02](docs/Day02.md)
-- [Tag 03](docs/Day03.md)
-- [Tag 04](docs/Day04.md)
-- [Tag 05](docs/Day05.md)
-- [Tag 06](docs/Day06.md)
-- [Tag 07](docs/Day07.md)
-- [Tag 08](docs/Day08.md)
-- [Tag 09](docs/Day09.md)
-- [Tag 10](docs/Day10.md)
+- [Tag 01](docs/Day01.md) *komplett*
+- [Tag 02](docs/Day02.md) *komplett*
+- [Tag 03](docs/Day03.md) *komplett*
+- [Tag 04](docs/Day04.md) *komplett*
+- [Tag 05](docs/Day05.md) *komplett*
+- [Tag 06](docs/Day06.md) *komplett*
+- [Tag 07](docs/Day07.md) *komplett*
+- [Tag 08](docs/Day08.md) *work in progress*
+- [Tag 09](docs/Day09.md) *work in progress*
+- [Tag 10](docs/Day10.md) *work in progress*
+- [Tag 11](docs/Day11.md) *work in progress*
+- [Tag 12](docs/Day12.md) *work in progress*
+- [Tag 13](docs/Day13.md) *work in progress*
+- [Tag 14](docs/Day14.md) *work in progress*
 
 ## Help
 
