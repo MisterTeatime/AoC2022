@@ -35,14 +35,14 @@ Jede Abdeckung kann durch 4 geraden beschrieben werden, die den Bereich umfassen
 mit Steigung 1 (Typ a)
 
 $$
-y = 1 * x + (p.y - p.x + r + 1)
+y = 1 * x + (p.y - p.x + r + 1)\\
 y = 1 * x + (p.y - p.x - r - 1)
 $$
 
 mit Steigung -1 (Typ b)
 
 $$
-y = -1 * x + (p.x + p.y + r + 1)
+y = -1 * x + (p.x + p.y + r + 1)\\
 y = -1 * x + (p.x + p.y - r - 1)
 $$
 
