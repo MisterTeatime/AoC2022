@@ -35,15 +35,15 @@ Jede Abdeckung kann durch 4 geraden beschrieben werden, die den Bereich umfassen
 mit Steigung 1 (Typ a)
 
 $$
-y = 1 * x + (p.y - p.x + r + 1) \\
-y = 1 * x + (p.y - p.x - r - 1)
+\displaylines{y = 1 * x + (p.y - p.x + r + 1) \\
+y = 1 * x + (p.y - p.x - r - 1)}
 $$
 
 mit Steigung -1 (Typ b)
 
 $$
-y = -1 * x + (p.x + p.y + r + 1) \\
-y = -1 * x + (p.x + p.y - r - 1)
+\displaylines{y = -1 * x + (p.x + p.y + r + 1) \\
+y = -1 * x + (p.x + p.y - r - 1)}
 $$
 
 An Schnittpunkten zweier Geraden (einer Typ a und einer Typ b) kann möglicherweise der gesuchte Punkt liegen. Der Schnittpunkt zweier Geraden der Form $y = mx + c$ für zwei geraden a und b hat die Koordinate $((b - a) / 2, (a + b) / 2)$. Die so ermittelten Schnittpunkte können dann gefiltert werden, ob sie im Bereich liegen und nicht von einem Sensor abgedeckt sind.
