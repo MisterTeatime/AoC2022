@@ -26,6 +26,7 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 - [Tag 18](docs/Day18.md) *work in progress*
 - [Tag 19](docs/Day19.md) *work in progress*
 - [Tag 20](docs/Day20.md) *work in progress*
+- [Tag 21](docs/Day21.md) *work in progress*
 
 ## Help
 
