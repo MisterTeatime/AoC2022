@@ -11,21 +11,26 @@ fun main() {
     }
 
     fun part2(input: List<String>): Int {
-        return input.size
+        val cols = (0 until input[0].length)
+            .map { input.fold("") {acc, s -> acc + s[it] } }
+
+        val scenicScores = input.mapIndexed { rIndex, row ->
+            row.mapIndexed { cIndex, _ ->
+                getScenicScore(row, cIndex) * getScenicScore(cols[cIndex], rIndex)
+            }
+        }
+
+        return scenicScores.maxOf { row -> row.maxOf { it } }
     }
 
     // test if implementation meets criteria from the description, like:
     val testInput = readInput("Day08_test")
     //check(part1(testInput) == 21)
-    //check(part2(testInput) == 1)
+    check(part2(testInput) == 8)
 
     val input = readInput("Day08")
-    //println(part1(input))
-    //println(part2(input))
-
-    val testH = getScenicScore("33549", 2, 5)
-    val testV = getScenicScore("35353", 3, 5)
-    println(testH * testV)
+    println(part1(input))
+    println(part2(input))
 }
 
 fun isVisible(group: String, pos: Int, item: Int): Boolean {
@@ -35,7 +40,8 @@ fun isVisible(group: String, pos: Int, item: Int): Boolean {
     return before.all { it < item } || after.all { it < item }
 }
 
-fun getScenicScore(group: String, pos: Int, item: Int): Int {
+fun getScenicScore(group: String, pos: Int): Int {
+    val item = group[pos].digitToInt()
     val before = group.take(pos).map { it.digitToInt() }
     val after = group.takeLast(group.length - 1 - pos).map { it.digitToInt() }
 

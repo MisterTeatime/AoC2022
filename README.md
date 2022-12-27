@@ -13,7 +13,7 @@ In this repository, misterteatime is about to provide solutions for the puzzles 
 - [Tag 05](docs/Day05.md) *vollständig*
 - [Tag 06](docs/Day06.md) *vollständig*
 - [Tag 07](docs/Day07.md) *vollständig*
-- [Tag 08](docs/Day08.md) *work in progress*
+- [Tag 08](docs/Day08.md) *vollständig*
 - [Tag 09](docs/Day09.md) *work in progress*
 - [Tag 10](docs/Day10.md) *work in progress*
 - [Tag 11](docs/Day11.md) *work in progress*
